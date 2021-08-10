@@ -1,0 +1,54 @@
+INFO  10:38:27 Application started. Press Ctrl+C to shut down.
+INFO  10:38:27 Hosting environment: Development
+INFO  10:38:27 Content root path: E:\InsuranceClaim\InsuranceClaim
+WARN  10:39:27 Failed to determine the https port for redirect.
+INFO  10:49:26 Application started. Press Ctrl+C to shut down.
+INFO  10:49:26 Hosting environment: Development
+INFO  10:49:26 Content root path: E:\InsuranceClaim\InsuranceClaim
+WARN  10:50:24 Failed to determine the https port for redirect.
+INFO  10:50:30 Get Treatment Packages Service called..
+INFO  10:50:30 Package details is fetched  Successfully
+INFO  10:50:50 Package Name is fetched  Successfully
+INFO  10:51:13 Package Name is fetched  Successfully
+INFO  10:51:20 Package Name is fetched  Successfully
+INFO  10:51:27 Package Name is fetched  Successfully
+INFO  11:36:15 Application started. Press Ctrl+C to shut down.
+INFO  11:36:15 Hosting environment: Development
+INFO  11:36:15 Content root path: E:\InsuranceClaim\InsuranceClaim
+WARN  11:43:55 Failed to determine the https port for redirect.
+INFO  12:10:55 Application started. Press Ctrl+C to shut down.
+INFO  12:10:56 Hosting environment: Development
+INFO  12:10:56 Content root path: E:\InsuranceClaim\InsuranceClaim
+WARN  12:15:46 Failed to determine the https port for redirect.
+INFO  12:16:03 Get Treatment Packages Service called..
+INFO  12:16:03 Package details is fetched  Successfully
+INFO  12:16:27 Get Treatment Packages Service called..
+INFO  12:16:27 Package details is fetched  Successfully
+INFO  12:20:35 Package Name is fetched  Successfully
+INFO  12:21:35 Package Name is fetched  Successfully
+INFO  12:40:36 Application started. Press Ctrl+C to shut down.
+INFO  12:40:36 Hosting environment: Development
+INFO  12:40:36 Content root path: E:\InsuranceClaim\InsuranceClaim
+WARN  12:50:01 Failed to determine the https port for redirect.
+INFO  12:50:03 Get Treatment Packages Service called..
+INFO  12:50:03 Package details is fetched  Successfully
+INFO  12:58:06 Get Treatment Packages Service called..
+INFO  12:58:06 Package details is fetched  Successfully
+INFO  03:17:03 Application started. Press Ctrl+C to shut down.
+INFO  03:17:04 Hosting environment: Development
+INFO  03:17:04 Content root path: E:\InsuranceClaim\InsuranceClaim
+WARN  03:21:15 Failed to determine the https port for redirect.
+INFO  03:22:02 Get Treatment Packages Service called..
+INFO  03:22:02 Package details is fetched  Successfully
+INFO  03:29:04 Application started. Press Ctrl+C to shut down.
+INFO  03:29:04 Hosting environment: Development
+INFO  03:29:04 Content root path: E:\InsuranceClaim\InsuranceClaim
+WARN  03:30:03 Failed to determine the https port for redirect.
+INFO  12:34:34 Application started. Press Ctrl+C to shut down.
+INFO  12:34:35 Application started. Press Ctrl+C to shut down.
+INFO  12:34:35 Hosting environment: Development
+INFO  12:34:35 Hosting environment: Development
+INFO  12:34:35 Content root path: E:\InsuranceClaim\InsuranceClaim
+INFO  12:34:35 Content root path: E:\InsuranceClaim\InsuranceClaim
+WARN  12:35:23 Failed to determine the https port for redirect.
+WARN  12:35:23 Failed to determine the https port for redirect.
